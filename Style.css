@@ -1,0 +1,70 @@
+        .main-heading {
+            background: white;
+            border-radius: 10px;
+        }
+
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        .points {
+            background-color: azure;
+        }
+
+        .header {
+            height: 80px;
+            background-color: black;
+        }
+
+        .main {
+            height: 800px;
+            background-color: blueviolet;
+        }
+
+        .contain {
+
+
+            font-size: 20px;
+            /* background: fixed; */
+            border: 1px solid red;
+            /* background-color: bisque; */
+            background-image: url('IMG20230618180421.jpg');
+            background-repeat: no-repeat;
+            background-size: contain;
+            width: auto;
+            /* height: 120px; */
+            background-position: right;
+            margin-top: 5px;
+            margin-bottom: 5px;
+
+
+        }
+
+        .This {
+            background-color: aqua;
+            border-radius: 5px;
+        }
+
+        .Hindi {
+            background-color: aqua;
+            border-radius: 5px;
+        }
+
+        .English {
+            background-color: aqua;
+            border-radius: 2px;
+        }
+
+        /* .body-background-color {
+            background-color: rgb(200, 248, 250);
+        } */
+
+        /* .search-button1{
+            padding-top: px;
+            padding-left: 120px;
+           
+        }
+        .search-button2{
+            padding-left: px;
+        } */
